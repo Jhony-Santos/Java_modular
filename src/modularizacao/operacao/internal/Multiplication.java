@@ -1,2 +1,10 @@
-package modularizacao.operacao.internal;public class Multiplication {
+package modularizacao.operacao.internal;
+
+import modularizacao.operacao.Operacao;
+
+public class Multiplication implements Operacao {
+    @Override
+    public int executarOperacao(int x, int y) {
+        return x * y;
+    }
 }
