@@ -1,2 +1,4 @@
-package modularizacao.operacao;public class Calculadora {
+package modularizacao.operacao;
+
+public class Calculadora {
 }
