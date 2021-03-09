@@ -1,2 +1,5 @@
-package modularizacao;public class Main {
+package modularizacao;
+
+public class Main {
+    public static void main(String[]args){}
 }
